@@ -1,0 +1,17 @@
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\service\AuthService.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\security\JwtAuthenticationFilter.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\security\JwtUtil.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\config\SecurityConfig.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\exception\UserNotFoundException.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\controller\AuthResource.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\entity\User.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\exception\DuplicateEmailException.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\repository\UserRepository.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\exception\GlobalExceptionHandler.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\exception\AuthExceptions.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\AuthServiceApplication.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\dto\AuthDto.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\security\CustomOAuth2UserService.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\config\SwaggerConfig.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\service\impl\AuthServiceImpl.java
+D:\LMS_Backend\auth-service\src\main\java\com\edulearn\auth\exception\BadCredentialsException.java
